@@ -10,7 +10,7 @@ Add dependency in your `pom.xml`
         <dependency>
             <groupId>bug.video</groupId>
             <artifactId>maven-plugin</artifactId>
-            <version>0.0.1</version>
+            <version>1.0.0</version>
         </dependency>
 
 ```
